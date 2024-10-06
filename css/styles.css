@@ -134,6 +134,10 @@ font-weight: 500;
         color: #2E2F42;
 }
 /* ---------footeR------------ */
+.footer-section
+{
+    background-color: #2E2F42;
+}
 .footer-descripton{
     font-weight: 400;
         font-size: 16px;
