@@ -113,7 +113,7 @@ font-weight: 700;
     font-size: 36px;
     line-height: 111%;
     letter-spacing: 0.02em;
-    text-align: center;
+    text-transform: capitalize;
 color: #2E2F42;
 
 }
@@ -131,13 +131,12 @@ font-weight: 500;
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0.02em;
-        color: #2E2F42;
+        color: #434455;
 }
 /* ---------footeR------------ */
 .footer-section
 {
     font-family: raleway;
-    font-style: bold;
     background-color: #2E2F42;
 }
 .footer-descripton{
