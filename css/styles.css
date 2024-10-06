@@ -13,20 +13,25 @@ text-decoration: none;
 } 
 
 
-.headrer-logo {
-font-family: raleway;
-font-weight: 700;
-font-size: 18px;
-line-height: 21px;
-color: #2E2F42;
-}
+
 .header-logo-blue{
 font-family: raleway;
-font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
+font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 color: #4d5ae5;
+}
+.header-logo-studio
+{
+font-family: raleway;
+font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2E2F42;
 }
 .header-menu-options{
 font-family: roboto;    
@@ -81,7 +86,6 @@ font-family: roboto;
     font-size: 36px;
     line-height: 111%;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2E2F42;
 }
 .card-content-name{
@@ -90,7 +94,6 @@ font-family: roboto;
         font-size: 20px;
         line-height: 120%;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #2E2F42;
 }
 .card-content-profesion{
@@ -98,7 +101,6 @@ font-family: roboto;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2E2F42;
 }
 .Our-Portfolio{
@@ -140,6 +142,7 @@ font-weight: 700;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    background-color: #2E2F42;
 }
 .footer-studio{
     font-family: raleway;
