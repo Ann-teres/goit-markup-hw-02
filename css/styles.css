@@ -13,7 +13,7 @@ text-decoration: none;
 } 
 
 
-
+/* ------header---------- */
 .header-logo-blue{
 font-family: raleway;
 font-weight: 700;
@@ -65,7 +65,7 @@ height: 56px;
 color: #ffffff;
 background-color: #2E2F42;
 }
-.section-1-header{
+.section-first-header{
 font-family: roboto;
     font-weight: 500;
     font-size: 20px;
@@ -73,14 +73,16 @@ font-family: roboto;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.section-1-description{
+.section-fist-description
+{
 font-family: roboto;
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0.02em;
         color: #2E2F42;
 }
-.section-2-header{
+/* -------setion 2------- */
+.section-second-header{
     font-family: roboto;
     font-weight: 700;
     font-size: 36px;
@@ -103,6 +105,9 @@ font-family: roboto;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
+
+/* --------section 3--------- */
+
 .Our-Portfolio{
 font-weight: 700;
     font-size: 36px;
@@ -110,6 +115,7 @@ font-weight: 700;
     letter-spacing: 0.02em;
     text-align: center;
 color: #2E2F42;
+
 }
 .section-3-mokeup-description
 {
@@ -127,6 +133,7 @@ font-weight: 500;
         letter-spacing: 0.02em;
         color: #2E2F42;
 }
+/* ---------footeR------------ */
 .footer-descripton{
     font-weight: 400;
         font-size: 16px;
