@@ -67,6 +67,7 @@ height: 56px;
 color: #ffffff;
 background-color: #2E2F42;
 }
+/* -------first section-------- */
 .section-first-header{
 font-family: roboto;
     font-weight: 500;
@@ -109,7 +110,7 @@ font-family: roboto;
 }
 
 /* --------section 3--------- */
-.section-three
+.section-four
 {
     font-family: roboto;
   background-color: #F4F4FD;  
@@ -118,24 +119,27 @@ font-family: roboto;
 .Our-Portfolio{
 font-weight: 700;
     font-size: 36px;
-    line-height: 111%;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
 color: #2E2F42;
 
 }
-.section-3-mokeup-description
+.section-four-mokeup-description
 {
 font-weight: 500;
     font-size: 20px;
-    line-height: 120%;
+    line-height: 1.2;
+    letter-spacing: 0.02em
     color: #2E2F42;
 }
-.section-3-product
+.card-content-profesion
 {
     font-weight: 400;
         font-size: 16px;
-        line-height: 150%;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
         color: #434455;
 }
 /* ---------footeR------------ */
