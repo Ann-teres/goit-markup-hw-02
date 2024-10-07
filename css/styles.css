@@ -70,7 +70,7 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #ffffff;
-background-color: #2e2f42;
+background-color:  #404BBF 
 }
 .hover-button{
     font-family: "Roboto", sans-serif ;
@@ -146,6 +146,7 @@ font-family: roboto;
 {
     font-family: roboto; 
   letter-spacing: 0.02em;
+  color: #2E2F42;
 }
 .Our-Portfolio{
 font-weight: 700;
