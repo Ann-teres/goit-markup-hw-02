@@ -2,9 +2,6 @@ body{
     font-family: "Roboto", sans-serif;
 background-color: #FFFFFF;
 color: #434455;
-display: flex;
-justify-content: center;
-align-items: center;
 height: 100vh;
 
 }
@@ -86,6 +83,9 @@ transition: #404BBF;
 background-color: #404BBF;
 }
 
+.hover-button:hover {
+    background-color: #404BBF;  
+}
  
 /* -------first section-------- */
 .section-first-header{
