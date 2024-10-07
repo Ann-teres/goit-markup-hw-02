@@ -101,7 +101,10 @@ font-family: roboto;
     font-size: 36px;
     line-height: 111%;
     letter-spacing: 0.02em;
+    text-align: center;
     color: #2E2F42;
+    background-color: #F4F4FD;
+    text-transform: capitalize;
 }
 .card-content-name{
     font-family: roboto;
