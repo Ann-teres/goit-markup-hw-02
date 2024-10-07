@@ -60,6 +60,7 @@ color: #434455;
 .order-message
 {
     background-color:#2e2f42;
+    color: #4D5AE5;
 }
 
 .message-solution{
@@ -82,7 +83,7 @@ letter-spacing: 0.04em;
 color: #ffffff;
 cursor: pointer;
 transition: #404BBF;
-background-color: #4D5AE5 
+background-color: #404BBF;
 }
 
  
