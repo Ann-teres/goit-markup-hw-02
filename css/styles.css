@@ -145,8 +145,12 @@ font-family: roboto;
 .section-four
 {
     font-family: roboto; 
+    font-size: 36px;
+    line-height: 1.1;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #2E2F42;
+  text-transform: capitalize
 }
 .Our-Portfolio{
 font-weight: 700;
