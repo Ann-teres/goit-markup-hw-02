@@ -2,7 +2,6 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
   color: #434455;
-  /* height: 100vh; */
 }
 
 ul {
@@ -92,7 +91,6 @@ a {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
-  /* height: 56px; */
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
