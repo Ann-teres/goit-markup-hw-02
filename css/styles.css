@@ -15,7 +15,7 @@ a {
 
 /* ------header---------- */
 .header-logo-blue {
-  font-family: raleway;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
@@ -24,7 +24,7 @@ a {
   color: #4d5ae5;
 }
 .header-logo-studio {
-  font-family: raleway;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
