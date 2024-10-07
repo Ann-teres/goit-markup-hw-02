@@ -67,14 +67,12 @@ text-align: center;
 color: #ffffff;
 }
 .order-service{
-font-family: roboto;
 font-weight: 500;
 font-size: 16px;
 height: 56px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #ffffff;
-background-color: #404bbf;
 cursor: pointer;
 }
 /* -------first section-------- */
