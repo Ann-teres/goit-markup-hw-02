@@ -107,6 +107,8 @@ font-family: roboto;
     text-align: center;
     color: #2E2F42;
     text-transform: capitalize;
+    background-color: #F4F4FD;
+    
 }
 .card-content-name{
     font-family: roboto;
