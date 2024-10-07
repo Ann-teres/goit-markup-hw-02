@@ -85,6 +85,10 @@ background-color: #4D5AE5;
 .hover-button:hover {
     background-color: #404BBF;  
 }
+
+.hover-buttom:focus{
+    background-color: #404BBF; 
+}
  
 /* -------first section-------- */
 .section-first-header{
