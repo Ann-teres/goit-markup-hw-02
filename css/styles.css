@@ -42,6 +42,9 @@ a {
 .first-element:hover {
   color: #404bbf;
 }
+.first-element:focus {
+  color: #404bbf;
+}
 .header-menu-options {
   font-family: roboto;
   font-weight: 500;
