@@ -171,6 +171,7 @@ font-weight: 500;
     background-color: #2E2F42;
 }
 .footer-web{
+    font-family: "Raleway", sans-serif;
 font-weight: 700;
     font-size: 18px;
     line-height:  1.17;
@@ -180,6 +181,7 @@ font-weight: 700;
     background-color: #2E2F42;
 }
 .footer-studio{
+    font-family: "Raleway", sans-serif;
 font-weight: 700;
     font-size: 18px;
     line-height:  1.17;
