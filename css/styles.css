@@ -70,7 +70,7 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #ffffff;
-background-color: #4D5AE5 
+background-color: #4D5AE5; 
 }
 .hover-button{
     font-family: "Roboto", sans-serif ;
@@ -82,7 +82,7 @@ letter-spacing: 0.04em;
 color: #ffffff;
 cursor: pointer;
 transition: #404BBF;
-background-color: #404BBF
+background-color: #404BBF;
 }
 
  
