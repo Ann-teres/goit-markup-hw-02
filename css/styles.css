@@ -59,7 +59,7 @@ color: #434455;
 /* pre section one */
 .order-message
 {
-    background-color:  #2e2f42;
+    background-color:#2e2f42;
 }
 
 .message-solution{
@@ -70,7 +70,7 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #ffffff;
-background-color: #4D5AE5; 
+background-color: #2e2f42;
 }
 .hover-button{
     font-family: "Roboto", sans-serif ;
