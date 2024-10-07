@@ -118,10 +118,12 @@ font-family: roboto;
         letter-spacing: 0.02em;
         color: #2E2F42;
         background-color: #FFFFFF;
-.card-content-profesion{
+
+.card-content-profesion
+{
     font-family: roboto;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
     background-color: #FFFFFF;
@@ -165,14 +167,6 @@ font-weight: 500;
     font-family: raleway;
     background-color: #2E2F42;
 }
-.footer-descripton{
-    font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #F4F4FD;    
-        background-color: #2E2F42;
-}
 .footer-web{
 font-weight: 700;
     font-size: 18px;
@@ -180,7 +174,6 @@ font-weight: 700;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    background-color: #2E2F42;
 }
 .footer-studio{
 font-weight: 700;
@@ -188,5 +181,12 @@ font-weight: 700;
     line-height:  1.17;
     text-transform: uppercase;
     color: #F4F4FD;
-    background-color: #2E2F42;
 }
+.footer-descripton{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
+
