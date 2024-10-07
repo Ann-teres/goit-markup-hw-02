@@ -66,6 +66,12 @@ a {
   font-style: normal;
   color: #434455;
 }
+.contact-details:first-child:focus {
+  color: #404bbf;
+}
+.contact-details:first-child:hover {
+  color: #404bbf;
+}
 /* pre section one */
 .order-message {
   background-color: #2e2f42;
