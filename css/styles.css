@@ -39,10 +39,11 @@ a {
 .hover-button:focus {
   color: #404bbf;
 }
-.first-element:hover {
+
+.header-menu:first-child:hover {
   color: #404bbf;
 }
-.first-element:focus {
+.header-menu:first-child:focus {
   color: #404bbf;
 }
 .header-menu-options {
