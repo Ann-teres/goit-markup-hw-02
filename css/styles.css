@@ -2,7 +2,11 @@ body{
     font-family: "Roboto", sans-serif;
 background-color: #FFFFFF;
 color: #434455;
- 
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+
 }
 
 ul{
@@ -45,6 +49,7 @@ color: #2E2F42;
 }
 .contact-details{
 font-family: rototo;
+font-style: normal;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
@@ -75,11 +80,11 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #ffffff;
 cursor: pointer;
-transition: background-color #4D5AE5;
+transition: #404BBF;
+background-color: #404BBF
 }
-.hover-button:hover {
-    background-color: #4D5AE5;
-}
+
+    background-color:
 /* -------first section-------- */
 .section-first-header{
 font-family: roboto;
