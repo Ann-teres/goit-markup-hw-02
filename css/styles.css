@@ -32,6 +32,9 @@ a {
   text-transform: uppercase;
   color: #2e2f42;
 }
+.header-menu-options:hover {
+  color: #404bbf;
+}
 .hover-button:hover {
   color: #404bbf;
 }
