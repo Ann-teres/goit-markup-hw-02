@@ -1,5 +1,5 @@
 body{
-font-family: "roboto", "raleway", sans-serif;
+    font-family: "Roboto", sans-serif;
 background-color: #FFFFFF;
 color: #434455;
  
@@ -97,6 +97,9 @@ font-family: roboto;
 /* -------setion 2------- */
 .our-team{
     background-color: #F4F4FD;
+}
+.our-team-section{
+    background-color: #FFFFFF;
 }
 .section-second-header{
     font-family: roboto;
